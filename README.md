@@ -19,7 +19,7 @@ Validar o comportamento dos endpoints públicos da Dog API utilizando testes aut
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/<seu-usuario>/dog-api-tests.git
+   git clone https://github.com/MauricioCLMonteiro/dog-api-tests.git
    ```
 2. Entre no diretório:
    ```bash
